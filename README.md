@@ -2,7 +2,7 @@
 
 My solutions for HackerRank's [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) challenges using Python 3.
 
-You might find some of these covered in more detail on my [blog](https://vickylai.io), but you can always reach out with questions via Twitter [@vickylaiio](https://twitter.com/vickylaiio).
+You might find some of these covered in more detail on my [blog](https://vickylai.com), but you can always reach out with questions via Twitter [@hivickylai](https://twitter.com/hivickylai).
 ***
 
 ## Requirements
